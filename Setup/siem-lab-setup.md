@@ -155,7 +155,7 @@ The following SPL query was used to confirm log ingestion:
 This query verifies that logs from multiple hosts are being indexed in Splunk.
 
 ## Logs Ingested in Splunk
-![Logs in Splunk](../screenshots/logs_in_splunk.png)
+![Logs in Splunk](../Screenshots/logs_in_splunk.png)
 ---
 
 ## ⚠️ Challenges & Troubleshooting
