@@ -78,7 +78,7 @@ Logs were forwarded to the Splunk server at:
 192.168.56.10:9997
 ```
 ## Windows Forwarder Running
-![Windows Forwarder](../screenshots/windows_forwarder.png)
+![Windows Forwarder](../Screenshots/windows_forwarder.png)
 
 ---
 
@@ -95,7 +95,7 @@ sudo /opt/splunkforwarder/bin/splunk add monitor /var/log
 The logs were then forwarded to the Splunk SIEM server.
 
 ## Kali Forwarder Connection
-![Kali Forwarder](../screenshots/kali_forwarder.png)
+![Kali Forwarder](../Screenshots/kali_forwarder.png)
 
 ---
 
@@ -112,7 +112,7 @@ Remote syslog server configuration:
 ```
 
 ## pfSense Syslog Configuration
-![pfSense Syslog](../screenshots/pfsense_syslog_config.png)
+![pfSense Syslog](../Screenshots/pfsense_syslog_config.png)
 
 ---
 
@@ -129,7 +129,7 @@ Suricata was installed using the **pfSense package manager**.
 Suricata generates intrusion detection alerts, which are forwarded to Splunk through syslog.
 
 ## Suricata IDS
-![Suricata Alerts](../screenshots/suricata_alerts.png)
+![Suricata Alerts](../Screenshots/suricata_alerts.png)
 ---
 
 ## 📊 Log Collection in Splunk
